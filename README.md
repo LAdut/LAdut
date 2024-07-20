@@ -8,6 +8,14 @@
 </p>
 
 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,flutter,figma,androidstudio,firebase,ai&theme=light)](https://skillicons.dev)
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=arpo1620@gmail.com)
+
+[![linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-aditiya-57595b242/)
+
+
+
 <!-- markdownlint-enable MD033 -->
 
 
